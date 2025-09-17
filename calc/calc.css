@@ -104,3 +104,19 @@ body {
 .zero {
     grid-column: span 2;
 }
+
+.voltar img{
+    width: 30px;
+    height: 30px;
+}
+
+.voltar{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+}
