@@ -1,62 +1,52 @@
 [
 {
   "id": 1,
-  "descricao": "Banana rosa da hello kitty",
-  "imagem": "/imagens/Banana-hk.jpg",
-  "preco": 5.0
+  "description": "Banana rosa da hello kitty",
+  "img": "/imagens/Banana-hk.jpg"
 },
 {
   "id": 2,
-  "descricao": "Morango rosa da hello kitty",
-  "imagem": "/imagens/Morango-hk.jpg",
-  "preco": 10.0
+  "description": "Morango rosa da hello kitty",
+  "img": "/imagens/Morango-hk.jpg"
 },
 {
   "id": 3,
-  "descricao": "Maça rosa da hello kitty",
-  "imagem": "/imagens/Maça-hk.jpg",
-  "preco": 2.5
+  "description": "Maça rosa da hello kitty",
+  "img": "/imagens/Maça-hk.jpg"
 },
 {
   "id": 4,
-  "descricao": "Blueberry rosa da hello kitty",
-  "imagem": "/imagens/Blueberry-hk.jpg",
-  "preco": 4.0
+  "description": "Blueberry rosa da hello kitty",
+  "img": "/imagens/Blueberry-hk.jpg"
 },
 {
   "id": 5,
-  "descricao": "Framboesa rosa da hello kitty",
-  "imagem": "/imagens/Framboesa-hk.jpg",
-  "preco": 4.0
+  "description": "Framboesa rosa da hello kitty",
+  "img": "/imagens/Framboesa-hk.jpg"
 },
 {
   "id": 6,
-  "descricao": "Gelatina rosa da hello kitty",
-  "imagem": "/imagens/Gelatina-hk.jpg",
-  "preco": 15.0
+  "description": "Gelatina rosa da hello kitty",
+  "img": "/imagens/Gelatina-hk.jpg"
 },
 {
   "id": 7,
-  "descricao": "Sorvete rosa da hello kitty",
-  "imagem": "/imagens/Sorvete-hk.jpg",
-  "preco": 12.0
+  "description": "Sorvete rosa da hello kitty",
+  "img": "/imagens/Sorvete-hk.jpg"
 },
 {
   "id": 8,
-  "descricao": "Pirulito rosa da hello kitty",
-  "imagem": "/imagens/Pirulito-hk.jfif",
-  "preco": 1.50
+  "description": "Pirulito rosa da hello kitty",
+  "img": "/imagens/Pirulito-hk.jfif"
 },
 {
   "id": 9,
-  "descricao": "Cupcake rosa da hello kitty",
-  "imagem": "/imagens/Cupcake-hk.jpg",
-  "preco": 20.0
+  "description": "Cupcake rosa da hello kitty",
+  "img": "/imagens/Cupcake-hk.jpg"
 },
 {
   "id": 10,
-  "descricao": "Petit Gateau rosa da hello kitty",
-  "imagem": "/imagens/PG-hk.jpg",
-  "preco": 50.0
+  "description": "Petit Gateau rosa da hello kitty",
+  "img": "/imagens/PG-hk.jpg"
 }
 ]
