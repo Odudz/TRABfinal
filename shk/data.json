@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Tubarão Branco",
+    "img": "imgs/tubarão-branco.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tubarão Martelo",
+    "img": "imgs/tubarão-martelo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tubarão Mangona",
+    "img": "imgs/tubarão-mangona.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tubarão Azul",
+    "img": "imgs/tubarão-azul.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tubarão Cinzento",
+    "img": "imgs/tubarão-cinzento.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tubarão Lixa",
+    "img": "imgs/tubarão-lixa.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tubarão Tigre",
+    "img": "imgs/tubarão-tigre.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tubarão Cabeça Chata",
+    "img": "imgs/tubarão-cabeça-chata.webp"
+  },
+  {
+    "id": 9,
+    "name": "Tubarão Raposa",
+    "img": "imgs/tubarão-raposa.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tubarão Limão",
+    "img": "imgs/tubarão-limão.jpg"
+  }
+]

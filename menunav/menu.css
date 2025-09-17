@@ -18,6 +18,10 @@ body {
   gap: 15px;
 }
 
+.voltar a {
+    width: 80px;
+    height: 80px;
+}
 .voltar img{
     width: 80px;
     height: 80px;
