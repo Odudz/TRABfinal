@@ -27,3 +27,29 @@ p {
     font-size: 1.25rem;
 }
 
+.voltar img{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.voltar{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+}
+
+.obtimg{
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+}

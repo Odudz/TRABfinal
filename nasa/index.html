@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NASA</title>
 </head>
+    <button class="voltar" onclick="window.location.href='/menunav/menu.html'"><img src="/imagens/menu.png"></button>
 <body>
     <h1>Imagem do Dia da NASA</h1>
     <div id="nasaImage" class="nasaImage">
-        <img id="image" src="" alt="" />
+        <img id="image" src="/imagens/ponto.jpg" alt="" />
         <p id="explanation"></p>
     </div>
-    <button onclick="getAPOD()">Obter Imagem</button>
+    <button onclick="getAPOD()" class="obtimg">Obter Imagem</button>
 </body>
 </html>
 <link rel="stylesheet" href="style.css">
