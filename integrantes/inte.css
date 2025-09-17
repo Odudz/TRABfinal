@@ -36,8 +36,12 @@ body{
     margin: 25px;
 }
 
-.card .info{
-    width: 80%;
+.cardinfo{
+    width: 60%;
+}
+
+.cardinfo .nomes{
+    font-size: 38px;
 }
 
 .card p{
@@ -80,4 +84,15 @@ body{
     font-size: 16px;    
 }
 
+}
+
+.voltar img{
+    width: 25px;
+    height: 25px;
+}
+
+.voltar{
+    width: 30px;
+    height: 30px;
+    display: flex;
 }
